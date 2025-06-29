@@ -33,6 +33,10 @@ mongoose.connect(process.env.MONGODB_URL,)
     })
     .catch((e)=>console.log('Error while Connecting with Data base ',e)) 
 
+app.use('/',(req,res)=>{
+
+    res.send('App is working ....')
+})
 app.use('/api/v1',authRoutes)
 app.use('/api/v1',taskRoutes)
 
