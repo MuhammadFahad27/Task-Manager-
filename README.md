@@ -30,9 +30,9 @@ This app provides the following functionality:
 
 ## 🚀 Live Deployment Links
 
-- 🔗 **Frontend (Vercel)**: [https://your-frontend.vercel.app](https://task-manager-mern-liard-eight.vercel.app/)
-- - 🔗 **Backend (Render / Cyclic)**: [https://your-backend.onrender.com](https://task-manager-nine-beta-62.vercel.app/)
-- 📂 **GitHub Repository**: [https://github.com/yourusername/mern-task-manager](https://github.com/MuhammadFahad27/Task-Manager-)
+- 🔗 **Frontend (Vercel)**: [https://task-manager-mern-liard-eight.vercel.app/]
+- - 🔗 **Backend (Render / Cyclic)**: [https://task-manager-nine-beta-62.vercel.app/]
+- 📂 **GitHub Repository**: [https://github.com/MuhammadFahad27/Task-Manager-)]
 
 ---
 
