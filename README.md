@@ -41,6 +41,7 @@ This app provides the following functionality:
 | Technology | Description |
 |------------|-------------|
 | React.js   | Frontend Framework |
+| Tailwind Css | For Responsive Design |
 | Node.js    | Backend Runtime |
 | Express.js | Backend Web Framework |
 | MongoDB    | NoSQL Database |
@@ -97,6 +98,38 @@ This app provides the following functionality:
 ![Edit Task](./screenshots/p3.PNG)
 
 ---
+
+## ⚙️ Setup Instructions
+
+### 🔁 1. Clone the Repository
+
+```bash
+git clone https://github.com/MuhammadFahad27/Task-Manager-.git
+cd Task-Manager-
+
+
+### 🔁 2. Backend Setup
+cd backend
+npm install
+create env file in which
+PORT=3000
+MONGO_URI=your_mongo_atlas_url
+JWT_SECRET=your_secret_key
+Start backend server
+npm run dev
+
+### 🔁 3. Frontend Setup
+cd ..
+cd frontend
+npm install
+
+create env file in which
+VITE_API_URL=http://localhost:3000/api/v1
+Start app
+npm run dev
+
+
+
 
 
 
