@@ -21,7 +21,7 @@ This app provides the following functionality:
 - **Redux Toolkit**: Used for global state management.
 - **React Router DOM**: For frontend routing between pages.
 - **Axios**: For communicating with backend REST APIs.
-- **Toast Notifications**: Helpful user feedback on actions like login, error, update, etc.
+- **Toast Notifications**: Helpful for notifications  on actions like login, error, update, etc.
 
 ---
 
