@@ -81,19 +81,18 @@ This app provides the following functionality:
 
 > Below are some screenshots of the application to give you a visual overview.
 
-### 🔑 Login Page
 
-![Login Page](./screenshots/login.png)
 
-### 📋 Dashboard
+### 📋 Home Page
 
 ![Dashboard](./screenshots/p1.PNG)
 
-### ➕ Create Task
+### 🛠️ Login To Account
 
 ![Create Task](./screenshots/p2.PNG)
 
-### 🛠️ Edit Task
+### ➕ Create Task
+
 
 ![Edit Task](./screenshots/p3.PNG)
 
