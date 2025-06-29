@@ -32,7 +32,7 @@ This app provides the following functionality:
 
 - 🔗 **Frontend (Vercel)**: [https://task-manager-mern-liard-eight.vercel.app/]
 - - 🔗 **Backend (Render / Cyclic)**: [https://task-manager-nine-beta-62.vercel.app/]
-- 📂 **GitHub Repository**: [https://github.com/MuhammadFahad27/Task-Manager-)]
+- 📂 **GitHub Repository**: [https://github.com/MuhammadFahad27/Task-Manager-]
 
 ---
 
